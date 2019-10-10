@@ -1,5 +1,11 @@
 # HeroesUpgraded
 
+The goal of this project was to find out if I can save the state of the grid from the angular-gridster2 library and it is possible.
+
+Basically, you need the attributes x, y, rows, and cols for your gridster item and to save those values so you can remember the position of those items.
+
+## Angular CLI Notes
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 ## Development server
